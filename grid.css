@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
+
   body {
     background-color: #000;
     height: 100vh;
@@ -26,18 +27,22 @@
     background-color: rgb(223, 70, 23);
     grid-area: head;
   }
+
   .grid-2 {
     background-color: rgb(225, 162, 13);
     grid-area: headl;
   }
+
   .grid-3 {
     background-color: rgb(6, 124, 25);
     grid-area: mid;
   }
+
   .grid-4 {
     background-color: rgb(29, 162, 202);
     grid-area: cen;
   }
+  
   .grid-5 {
     background-color: rgb(29, 162, 202);
     grid-area: cenl;
